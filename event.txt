@@ -14,3 +14,4 @@ Campus Event Board
    Date: December 18, 2026
    Venue: School Auditorium
    Description: A Christmas celebration with performances, games, and gift-giving.
+`Enhance event information by including descriptions for each campus activity`
