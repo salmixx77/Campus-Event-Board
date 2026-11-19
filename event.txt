@@ -1,1 +1,16 @@
+Campus Event Board
 
+1. Event Name: Campus Fun Day 2026
+   Date: December 5, 2026
+   Venue: School Gymnasium
+   Description: A fun-filled day featuring games, sports, and student activities.
+
+2. Event Name: Technology and Innovation Seminar
+   Date: December 10, 2026
+   Venue: Computer Laboratory
+   Description: A seminar that introduces students to modern technology and innovation.
+
+3. Event Name: Christmas Celebration 2026
+   Date: December 18, 2026
+   Venue: School Auditorium
+   Description: A Christmas celebration with performances, games, and gift-giving.
