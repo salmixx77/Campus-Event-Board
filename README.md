@@ -14,3 +14,4 @@ The purpose of the Campus Event Board is to provide a centralized platform where
 3. Event Name: Christmas Celebration 2026
    Date: December 18, 2026
    Venue: School Auditorium
+`Add three sample campus events with names, dates, and venues`
