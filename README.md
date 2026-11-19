@@ -1,1 +1,2 @@
-# Campus-Event-Board1
+# Campus-Event-Board  
+for event in campus
